@@ -1,0 +1,85 @@
+#h1-1 {
+	text-align: center;
+	color: ;
+	font-family: trebuchet MS;
+
+
+}
+
+*{
+	background: beige;
+}
+
+#gif1 {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 50px;
+	transition: 0.5s all;
+}
+
+.nav-1 {
+
+}
+
+li {
+	list-style-type: none;
+	text-decoration: none;
+
+}
+
+#p-1 {
+	font-family: Trebuchet MS;
+	text-align: center;
+	font-size: 50px;
+	color: black;
+	
+}
+
+
+
+a:link 
+{ 
+ text-decoration:none;
+ color: black; 
+} 
+
+#a-2:link {
+	text-decoration: none;
+	color: black;
+	font-family: arial;
+
+}
+#h1-2 {
+	font-family: Arial;
+	text-align: center;
+	font-size: 50px;
+	color: black;
+}
+
+
+#p-fin {
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+
+}
+
+#credits {
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	text-align: left;
+
+}
+
+#version {
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	text-align: left;
+
+}
