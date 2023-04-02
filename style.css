@@ -101,3 +101,19 @@ a:link
 	text-decoration: none;
 }
 
+
+#twitter {
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	text-align: left;
+}
+
+#copy {
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	text-align: left;
+}
